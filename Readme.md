@@ -1,4 +1,5 @@
 Github
-Arquivo do curso de git para iniciantes
+
+Arquivo do curso de git
+
 Usando o git diff
-Desfazendo
